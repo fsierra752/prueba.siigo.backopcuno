@@ -10,5 +10,5 @@ import org.junit.runner.RunWith;
         features = {"src/test/resources/features/servicesGet.feature"},
         glue = {"com.reqres.definitions.rest"}
 )
-public class ServicesGet {
+public class ServicesGetRunner {
 }
