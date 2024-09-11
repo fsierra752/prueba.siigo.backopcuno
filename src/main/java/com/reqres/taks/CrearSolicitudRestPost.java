@@ -1,6 +1,5 @@
 package com.reqres.taks;
 
-import com.reqres.interactions.SolicitudCreacionInteraction;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Performable;
 import net.serenitybdd.screenplay.Task;

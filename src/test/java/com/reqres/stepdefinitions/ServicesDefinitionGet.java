@@ -27,7 +27,7 @@ public class ServicesDefinitionGet extends SetUp {
     @Cuando("se solicite informacion de usuario con identificacion {int}")
     public void seSoliciteInformacionDeUsuarioConIdentificacion(Integer identificacion) {
         actor.attemptsTo(CrearSolicitudRestGet.conId(identificacion));
-        LastResponse.received().answeredBy(actor).prettyPrint();
+        //LastResponse.received().answeredBy(actor).prettyPrint();
     }
 
     @Entonces("el servicio respondera con la informacion adecuada {string}")

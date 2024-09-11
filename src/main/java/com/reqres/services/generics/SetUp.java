@@ -1,6 +1,5 @@
 package com.reqres.services.generics;
 
-
 import net.serenitybdd.screenplay.*;
 import org.apache.log4j.PropertyConfigurator;
 
