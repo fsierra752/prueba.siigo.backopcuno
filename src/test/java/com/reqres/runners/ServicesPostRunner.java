@@ -7,8 +7,8 @@ import org.junit.runner.RunWith;
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions(
         snippets = CucumberOptions.SnippetType.CAMELCASE,
-        features = {"src/test/resources/features/servicesGet.feature"},
+        features = {"src/test/resources/features/servicesPost.feature"},
         glue = {"com.reqres.stepdefinitions"}
 )
-public class ServicesGetRunner {
+public class ServicesPostRunner {
 }

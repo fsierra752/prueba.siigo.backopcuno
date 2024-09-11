@@ -1,7 +1,7 @@
-package com.reqres.definitions.rest;
+package com.reqres.stepdefinitions;
 
 import com.reqres.services.generics.SetUp;
-import com.reqres.taks.CrearSolicitudRest;
+import com.reqres.taks.CrearSolicitudRestGet;
 import io.cucumber.java.Before;
 import io.cucumber.java.es.Cuando;
 import io.cucumber.java.es.Entonces;
@@ -16,7 +16,7 @@ import static net.serenitybdd.screenplay.rest.questions.ResponseConsequence.seeT
 import static org.hamcrest.Matchers.equalTo;
 
 
-public class ServicesDefinition extends SetUp {
+public class ServicesDefinitionGet extends SetUp {
 
     @Before()
     public void setup(){
@@ -26,7 +26,7 @@ public class ServicesDefinition extends SetUp {
 
     @Cuando("se solicite informacion de usuario con identificacion {int}")
     public void seSoliciteInformacionDeUsuarioConIdentificacion(Integer identificacion) {
-        actor.attemptsTo(CrearSolicitudRest.conId(identificacion));
+        actor.attemptsTo(CrearSolicitudRestGet.conId(identificacion));
         LastResponse.received().answeredBy(actor).prettyPrint();
     }
 

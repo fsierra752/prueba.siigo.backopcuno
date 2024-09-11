@@ -8,16 +8,16 @@ import net.serenitybdd.screenplay.rest.interactions.Get;
 import static com.reqres.services.api.Implementacion.RESOURCE;
 import static net.serenitybdd.screenplay.Tasks.instrumented;
 
-public class CrearSolicitudRest implements Task {
+public class CrearSolicitudRestGet implements Task {
 
     private final Integer userId;
 
-    public CrearSolicitudRest(Integer userId) {
+    public CrearSolicitudRestGet(Integer userId) {
         this.userId = userId;
     }
 
     public static Performable conId(Integer userId) {
-        return instrumented(CrearSolicitudRest.class, userId);
+        return instrumented(CrearSolicitudRestGet.class, userId);
     }
 
     @Override
