@@ -1,5 +1,5 @@
 #language:es
-Característica: Verifiacion de servicios atraves de solicitudes Rest metodo GET
+Característica: Verifiacion de servicios a traves de solicitudes Rest metodo GET
 
   Escenario: Solicitar informacion de un solo usuario
     Cuando se solicite informacion de usuario con identificacion 2
