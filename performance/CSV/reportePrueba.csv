@@ -1,0 +1,501 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1726106558361,264,ConsultarUsuario,200,OK,Grupo de Hilos 1-1,text,true,,1136,217,2,2,https://reqres.in/api/users/1,264,0,176
+1726106558626,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-1,text,false,,1113,0,2,2,https://reqres.in/api/users/<EOF>,0,0,0
+1726106558629,90,ConsultarUsuario,200,OK,Grupo de Hilos 1-1,text,true,,1136,217,2,2,https://reqres.in/api/users/1,90,0,0
+1726106558767,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-3,text,false,,1113,0,3,3,https://reqres.in/api/users/<EOF>,0,0,0
+1726106558720,90,ConsultarUsuario,200,OK,Grupo de Hilos 1-1,text,true,,1135,217,3,3,https://reqres.in/api/users/2,90,0,0
+1726106558566,259,ConsultarUsuario,200,OK,Grupo de Hilos 1-2,text,true,,1135,217,3,3,https://reqres.in/api/users/2,259,0,171
+1726106558826,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-2,text,false,,1113,0,3,3,https://reqres.in/api/users/<EOF>,0,0,0
+1726106558811,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-1,text,true,,1135,217,3,3,https://reqres.in/api/users/2,84,0,0
+1726106558829,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-2,text,true,,1136,217,3,3,https://reqres.in/api/users/1,83,0,0
+1726106558914,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-2,text,false,,1113,0,3,3,https://reqres.in/api/users/<EOF>,0,0,0
+1726106558898,86,ConsultarUsuario,200,OK,Grupo de Hilos 1-1,text,true,,1135,217,4,4,https://reqres.in/api/users/2,86,0,0
+1726106558984,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-1,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106558918,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-2,text,true,,1136,217,4,4,https://reqres.in/api/users/1,82,0,0
+1726106558770,251,ConsultarUsuario,200,OK,Grupo de Hilos 1-3,text,true,,1136,217,4,4,https://reqres.in/api/users/1,250,0,167
+1726106559021,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-3,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106558987,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-1,text,true,,1136,217,4,4,https://reqres.in/api/users/1,84,0,0
+1726106559001,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-2,text,true,,1135,217,4,4,https://reqres.in/api/users/2,84,0,0
+1726106559086,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-2,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106559026,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-3,text,true,,1136,217,4,4,https://reqres.in/api/users/1,84,0,0
+1726106559073,85,ConsultarUsuario,200,OK,Grupo de Hilos 1-1,text,true,,1135,217,4,4,https://reqres.in/api/users/2,85,0,0
+1726106559158,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-1,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106559089,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-2,text,true,,1136,217,4,4,https://reqres.in/api/users/1,84,0,0
+1726106559111,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-3,text,true,,1135,217,4,4,https://reqres.in/api/users/2,84,0,0
+1726106559196,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-3,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106558968,263,ConsultarUsuario,200,OK,Grupo de Hilos 1-4,text,true,,1135,217,4,4,https://reqres.in/api/users/2,263,0,170
+1726106559174,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-2,text,true,,1135,217,4,4,https://reqres.in/api/users/2,83,0,0
+1726106559258,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-2,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106559198,80,ConsultarUsuario,200,OK,Grupo de Hilos 1-3,text,true,,1136,217,3,3,https://reqres.in/api/users/1,80,0,0
+1726106559232,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-4,text,true,,1135,217,3,3,https://reqres.in/api/users/2,84,0,0
+1726106559280,81,ConsultarUsuario,200,OK,Grupo de Hilos 1-3,text,true,,1136,217,3,3,https://reqres.in/api/users/1,81,0,0
+1726106559361,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-3,text,false,,1113,0,3,3,https://reqres.in/api/users/<EOF>,0,0,0
+1726106559317,90,ConsultarUsuario,200,OK,Grupo de Hilos 1-4,text,true,,1135,217,4,4,https://reqres.in/api/users/2,90,0,0
+1726106559408,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-4,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106559169,258,ConsultarUsuario,200,OK,Grupo de Hilos 1-5,text,true,,1136,217,4,4,https://reqres.in/api/users/1,258,0,165
+1726106559363,85,ConsultarUsuario,200,OK,Grupo de Hilos 1-3,text,true,,1136,217,4,4,https://reqres.in/api/users/1,85,0,0
+1726106559409,88,ConsultarUsuario,200,OK,Grupo de Hilos 1-4,text,true,,1136,217,3,3,https://reqres.in/api/users/1,88,0,0
+1726106559497,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-4,text,false,,1113,0,3,3,https://reqres.in/api/users/<EOF>,0,0,0
+1726106559427,97,ConsultarUsuario,200,OK,Grupo de Hilos 1-5,text,true,,1135,217,3,3,https://reqres.in/api/users/2,97,0,0
+1726106559566,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-7,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106559499,86,ConsultarUsuario,200,OK,Grupo de Hilos 1-4,text,true,,1136,217,4,4,https://reqres.in/api/users/1,86,0,0
+1726106559525,86,ConsultarUsuario,200,OK,Grupo de Hilos 1-5,text,true,,1135,217,4,4,https://reqres.in/api/users/2,86,0,0
+1726106559612,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-5,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106559370,259,ConsultarUsuario,200,OK,Grupo de Hilos 1-6,text,true,,1135,217,4,4,https://reqres.in/api/users/2,259,0,163
+1726106559586,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-4,text,true,,1135,217,4,4,https://reqres.in/api/users/2,82,0,0
+1726106559668,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-4,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106559613,86,ConsultarUsuario,200,OK,Grupo de Hilos 1-5,text,true,,1136,217,4,4,https://reqres.in/api/users/1,86,0,0
+1726106559629,85,ConsultarUsuario,200,OK,Grupo de Hilos 1-6,text,true,,1135,217,4,4,https://reqres.in/api/users/2,85,0,0
+1726106559715,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-6,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106559672,86,ConsultarUsuario,200,OK,Grupo de Hilos 1-4,text,true,,1136,217,4,4,https://reqres.in/api/users/1,86,0,0
+1726106559701,88,ConsultarUsuario,200,OK,Grupo de Hilos 1-5,text,true,,1135,217,4,4,https://reqres.in/api/users/2,88,0,0
+1726106559790,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-5,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106559719,87,ConsultarUsuario,200,OK,Grupo de Hilos 1-6,text,true,,1136,217,4,4,https://reqres.in/api/users/1,87,0,0
+1726106559569,259,ConsultarUsuario,200,OK,Grupo de Hilos 1-7,text,true,,1136,217,4,4,https://reqres.in/api/users/1,259,0,171
+1726106559828,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-7,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106559792,81,ConsultarUsuario,200,OK,Grupo de Hilos 1-5,text,true,,1136,217,4,4,https://reqres.in/api/users/1,81,0,0
+1726106559807,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-6,text,true,,1135,217,4,4,https://reqres.in/api/users/2,84,0,0
+1726106559892,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-6,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106559831,86,ConsultarUsuario,200,OK,Grupo de Hilos 1-7,text,true,,1136,217,4,4,https://reqres.in/api/users/1,86,0,0
+1726106559875,86,ConsultarUsuario,200,OK,Grupo de Hilos 1-5,text,true,,1135,217,4,4,https://reqres.in/api/users/2,86,0,0
+1726106559961,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-5,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106559894,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-6,text,true,,1136,217,4,4,https://reqres.in/api/users/1,84,0,0
+1726106559918,86,ConsultarUsuario,200,OK,Grupo de Hilos 1-7,text,true,,1135,217,4,4,https://reqres.in/api/users/2,86,0,0
+1726106560004,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-7,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106559766,250,ConsultarUsuario,200,OK,Grupo de Hilos 1-8,text,true,,1135,217,4,4,https://reqres.in/api/users/2,250,0,164
+1726106559979,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-6,text,true,,1135,217,4,4,https://reqres.in/api/users/2,84,0,0
+1726106560063,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-6,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106560006,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-7,text,true,,1136,217,4,4,https://reqres.in/api/users/1,84,0,0
+1726106560016,87,ConsultarUsuario,200,OK,Grupo de Hilos 1-8,text,true,,1135,217,4,4,https://reqres.in/api/users/2,87,0,0
+1726106560104,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-8,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106560065,85,ConsultarUsuario,200,OK,Grupo de Hilos 1-6,text,true,,1136,217,4,4,https://reqres.in/api/users/1,85,0,0
+1726106560091,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-7,text,true,,1135,217,4,4,https://reqres.in/api/users/2,83,0,0
+1726106560175,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-7,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106560108,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-8,text,true,,1136,217,4,4,https://reqres.in/api/users/1,82,0,0
+1726106559966,259,ConsultarUsuario,200,OK,Grupo de Hilos 1-9,text,true,,1136,217,4,4,https://reqres.in/api/users/1,259,0,171
+1726106560226,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-9,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106560178,85,ConsultarUsuario,200,OK,Grupo de Hilos 1-7,text,true,,1136,217,4,4,https://reqres.in/api/users/1,84,0,0
+1726106560190,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-8,text,true,,1135,217,3,3,https://reqres.in/api/users/2,83,0,0
+1726106560229,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-9,text,true,,1136,217,3,3,https://reqres.in/api/users/1,84,0,0
+1726106560314,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-9,text,false,,1113,0,3,3,https://reqres.in/api/users/<EOF>,0,0,0
+1726106560274,91,ConsultarUsuario,200,OK,Grupo de Hilos 1-8,text,true,,1135,217,3,3,https://reqres.in/api/users/2,91,0,0
+1726106560366,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-8,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106560315,95,ConsultarUsuario,200,OK,Grupo de Hilos 1-9,text,true,,1136,217,4,4,https://reqres.in/api/users/1,95,0,0
+1726106560168,261,ConsultarUsuario,200,OK,Grupo de Hilos 1-10,text,true,,1135,217,4,4,https://reqres.in/api/users/2,261,0,172
+1726106560430,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-10,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106560371,87,ConsultarUsuario,200,OK,Grupo de Hilos 1-8,text,true,,1136,217,4,4,https://reqres.in/api/users/1,87,0,0
+1726106560432,89,ConsultarUsuario,200,OK,Grupo de Hilos 1-10,text,true,,1136,217,4,4,https://reqres.in/api/users/1,89,0,0
+1726106560522,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-10,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106560411,112,ConsultarUsuario,200,OK,Grupo de Hilos 1-9,text,true,,1135,217,4,4,https://reqres.in/api/users/2,112,0,0
+1726106560458,99,ConsultarUsuario,200,OK,Grupo de Hilos 1-8,text,true,,1135,217,4,4,https://reqres.in/api/users/2,99,0,0
+1726106560558,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-8,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106560524,85,ConsultarUsuario,200,OK,Grupo de Hilos 1-10,text,true,,1136,217,4,4,https://reqres.in/api/users/1,85,0,0
+1726106560524,86,ConsultarUsuario,200,OK,Grupo de Hilos 1-9,text,true,,1135,217,4,4,https://reqres.in/api/users/2,86,0,0
+1726106560609,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-9,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106560372,265,ConsultarUsuario,200,OK,Grupo de Hilos 1-11,text,true,,1135,217,4,4,https://reqres.in/api/users/2,265,0,173
+1726106560608,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-10,text,true,,1135,217,4,4,https://reqres.in/api/users/2,83,0,0
+1726106560693,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-10,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106560611,95,ConsultarUsuario,200,OK,Grupo de Hilos 1-9,text,true,,1136,217,4,4,https://reqres.in/api/users/1,95,0,0
+1726106560637,87,ConsultarUsuario,200,OK,Grupo de Hilos 1-11,text,true,,1135,217,4,4,https://reqres.in/api/users/2,87,0,0
+1726106560725,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-11,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106560695,88,ConsultarUsuario,200,OK,Grupo de Hilos 1-10,text,true,,1136,217,5,5,https://reqres.in/api/users/1,88,0,0
+1726106560784,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-10,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106560707,85,ConsultarUsuario,200,OK,Grupo de Hilos 1-9,text,true,,1135,217,5,5,https://reqres.in/api/users/2,85,0,0
+1726106560729,90,ConsultarUsuario,200,OK,Grupo de Hilos 1-11,text,true,,1136,217,4,4,https://reqres.in/api/users/1,90,0,0
+1726106560567,304,ConsultarUsuario,200,OK,Grupo de Hilos 1-12,text,true,,1136,217,4,4,https://reqres.in/api/users/1,304,0,174
+1726106560872,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-12,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106560785,91,ConsultarUsuario,200,OK,Grupo de Hilos 1-10,text,true,,1136,217,4,4,https://reqres.in/api/users/1,91,0,0
+1726106560819,85,ConsultarUsuario,200,OK,Grupo de Hilos 1-11,text,true,,1135,217,3,3,https://reqres.in/api/users/2,85,0,0
+1726106560874,86,ConsultarUsuario,200,OK,Grupo de Hilos 1-12,text,true,,1136,217,3,3,https://reqres.in/api/users/1,86,0,0
+1726106560965,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-14,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106560905,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-11,text,true,,1135,217,4,4,https://reqres.in/api/users/2,82,0,0
+1726106560988,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-11,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106560764,245,ConsultarUsuario,200,OK,Grupo de Hilos 1-13,text,true,,1135,217,4,4,https://reqres.in/api/users/2,245,0,163
+1726106560964,90,ConsultarUsuario,200,OK,Grupo de Hilos 1-12,text,true,,1136,217,4,4,https://reqres.in/api/users/1,90,0,0
+1726106561055,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-12,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106560989,97,ConsultarUsuario,200,OK,Grupo de Hilos 1-11,text,true,,1136,217,4,4,https://reqres.in/api/users/1,97,0,0
+1726106561010,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-13,text,true,,1135,217,4,4,https://reqres.in/api/users/2,82,0,0
+1726106561092,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-13,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106561056,87,ConsultarUsuario,200,OK,Grupo de Hilos 1-12,text,true,,1136,217,4,4,https://reqres.in/api/users/1,87,0,0
+1726106561165,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-15,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106561087,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-11,text,true,,1135,217,5,5,https://reqres.in/api/users/2,84,0,0
+1726106561093,87,ConsultarUsuario,200,OK,Grupo de Hilos 1-13,text,true,,1136,217,5,5,https://reqres.in/api/users/1,87,0,0
+1726106561181,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-13,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106560965,258,ConsultarUsuario,200,OK,Grupo de Hilos 1-14,text,true,,1135,217,5,5,https://reqres.in/api/users/2,258,0,170
+1726106561144,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-12,text,true,,1135,217,5,5,https://reqres.in/api/users/2,83,0,0
+1726106561227,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-12,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106561172,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-11,text,true,,1135,217,5,5,https://reqres.in/api/users/2,83,0,0
+1726106561184,81,ConsultarUsuario,200,OK,Grupo de Hilos 1-13,text,true,,1136,217,4,4,https://reqres.in/api/users/1,81,0,0
+1726106561223,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-14,text,true,,1135,217,4,4,https://reqres.in/api/users/2,82,0,0
+1726106561306,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-14,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106561228,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-12,text,true,,1136,217,4,4,https://reqres.in/api/users/1,83,0,0
+1726106561265,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-13,text,true,,1135,217,4,4,https://reqres.in/api/users/2,82,0,0
+1726106561348,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-13,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106561307,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-14,text,true,,1136,217,5,5,https://reqres.in/api/users/1,84,0,0
+1726106561392,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-14,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106561312,103,ConsultarUsuario,200,OK,Grupo de Hilos 1-12,text,true,,1135,217,5,5,https://reqres.in/api/users/2,103,0,0
+1726106561167,259,ConsultarUsuario,200,OK,Grupo de Hilos 1-15,text,true,,1136,217,4,4,https://reqres.in/api/users/1,259,0,169
+1726106561350,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-13,text,true,,1136,217,4,4,https://reqres.in/api/users/1,82,0,0
+1726106561432,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-13,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106561394,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-14,text,true,,1136,217,3,3,https://reqres.in/api/users/1,83,0,0
+1726106561427,85,ConsultarUsuario,200,OK,Grupo de Hilos 1-15,text,true,,1135,217,3,3,https://reqres.in/api/users/2,85,0,0
+1726106561565,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-17,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106561503,88,ConsultarUsuario,200,OK,Grupo de Hilos 1-14,text,true,,1136,217,4,4,https://reqres.in/api/users/1,88,0,0
+1726106561512,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-15,text,true,,1135,217,4,4,https://reqres.in/api/users/2,84,0,0
+1726106561596,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-15,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106561365,257,ConsultarUsuario,200,OK,Grupo de Hilos 1-16,text,true,,1135,217,4,4,https://reqres.in/api/users/2,257,0,162
+1726106561591,86,ConsultarUsuario,200,OK,Grupo de Hilos 1-14,text,true,,1135,217,4,4,https://reqres.in/api/users/2,86,0,0
+1726106561677,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-14,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106561597,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-15,text,true,,1136,217,3,3,https://reqres.in/api/users/1,83,0,0
+1726106561623,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-16,text,true,,1135,217,3,3,https://reqres.in/api/users/2,82,0,0
+1726106561681,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-15,text,true,,1136,217,3,3,https://reqres.in/api/users/1,82,0,0
+1726106561764,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-15,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106561705,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-16,text,true,,1135,217,4,4,https://reqres.in/api/users/2,83,0,0
+1726106561788,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-16,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106561566,260,ConsultarUsuario,200,OK,Grupo de Hilos 1-17,text,true,,1136,217,4,4,https://reqres.in/api/users/1,260,0,176
+1726106561765,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-15,text,true,,1135,217,4,4,https://reqres.in/api/users/2,83,0,0
+1726106561848,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-15,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106561789,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-16,text,true,,1136,217,3,3,https://reqres.in/api/users/1,82,0,0
+1726106561826,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-17,text,true,,1135,217,3,3,https://reqres.in/api/users/2,83,0,0
+1726106561872,81,ConsultarUsuario,200,OK,Grupo de Hilos 1-16,text,true,,1136,217,3,3,https://reqres.in/api/users/1,81,0,0
+1726106561954,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-16,text,false,,1113,0,3,3,https://reqres.in/api/users/<EOF>,0,0,0
+1726106561909,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-17,text,true,,1135,217,4,4,https://reqres.in/api/users/2,82,0,0
+1726106562000,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-17,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106561766,253,ConsultarUsuario,200,OK,Grupo de Hilos 1-18,text,true,,1136,217,4,4,https://reqres.in/api/users/1,253,0,164
+1726106561955,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-16,text,true,,1136,217,4,4,https://reqres.in/api/users/1,82,0,0
+1726106562037,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-16,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106562001,96,ConsultarUsuario,200,OK,Grupo de Hilos 1-17,text,true,,1136,217,4,4,https://reqres.in/api/users/1,96,0,0
+1726106562019,92,ConsultarUsuario,200,OK,Grupo de Hilos 1-18,text,true,,1135,217,4,4,https://reqres.in/api/users/2,92,0,0
+1726106562111,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-18,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106562039,105,ConsultarUsuario,200,OK,Grupo de Hilos 1-16,text,true,,1136,217,4,4,https://reqres.in/api/users/1,105,0,0
+1726106562097,81,ConsultarUsuario,200,OK,Grupo de Hilos 1-17,text,true,,1135,217,4,4,https://reqres.in/api/users/2,81,0,0
+1726106562178,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-17,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106562112,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-18,text,true,,1136,217,4,4,https://reqres.in/api/users/1,83,0,0
+1726106561963,264,ConsultarUsuario,200,OK,Grupo de Hilos 1-19,text,true,,1135,217,4,4,https://reqres.in/api/users/2,264,0,173
+1726106562227,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-19,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106562179,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-17,text,true,,1136,217,4,4,https://reqres.in/api/users/1,82,0,0
+1726106562195,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-18,text,true,,1135,217,4,4,https://reqres.in/api/users/2,82,0,0
+1726106562277,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-18,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106562228,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-19,text,true,,1136,217,4,4,https://reqres.in/api/users/1,82,0,0
+1726106562261,87,ConsultarUsuario,200,OK,Grupo de Hilos 1-17,text,true,,1135,217,4,4,https://reqres.in/api/users/2,86,0,0
+1726106562278,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-18,text,true,,1136,217,3,3,https://reqres.in/api/users/1,83,0,0
+1726106562362,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-18,text,false,,1113,0,3,3,https://reqres.in/api/users/<EOF>,0,0,0
+1726106562311,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-19,text,true,,1135,217,4,4,https://reqres.in/api/users/2,84,0,0
+1726106562396,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-19,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106562164,261,ConsultarUsuario,200,OK,Grupo de Hilos 1-20,text,true,,1135,217,4,4,https://reqres.in/api/users/2,261,0,171
+1726106562364,85,ConsultarUsuario,200,OK,Grupo de Hilos 1-18,text,true,,1136,217,4,4,https://reqres.in/api/users/1,85,0,0
+1726106562450,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-18,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106562397,79,ConsultarUsuario,200,OK,Grupo de Hilos 1-19,text,true,,1136,217,3,3,https://reqres.in/api/users/1,79,0,0
+1726106562426,91,ConsultarUsuario,200,OK,Grupo de Hilos 1-20,text,true,,1135,217,3,3,https://reqres.in/api/users/2,91,0,0
+1726106562477,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-19,text,true,,1136,217,3,3,https://reqres.in/api/users/1,83,0,0
+1726106562561,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-19,text,false,,1113,0,3,3,https://reqres.in/api/users/<EOF>,0,0,0
+1726106562365,245,ConsultarUsuario,200,OK,Grupo de Hilos 1-21,text,true,,1135,217,4,4,https://reqres.in/api/users/2,245,0,159
+1726106562611,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-21,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106562535,81,ConsultarUsuario,200,OK,Grupo de Hilos 1-20,text,true,,1135,217,4,4,https://reqres.in/api/users/2,81,0,0
+1726106562562,81,ConsultarUsuario,200,OK,Grupo de Hilos 1-19,text,true,,1136,217,4,4,https://reqres.in/api/users/1,81,0,0
+1726106562644,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-19,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106562612,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-21,text,true,,1136,217,3,3,https://reqres.in/api/users/1,83,0,0
+1726106562617,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-20,text,true,,1135,217,3,3,https://reqres.in/api/users/2,84,0,0
+1726106562764,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-23,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106562697,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-21,text,true,,1136,217,4,4,https://reqres.in/api/users/1,83,0,0
+1726106562702,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-20,text,true,,1135,217,4,4,https://reqres.in/api/users/2,83,0,0
+1726106562785,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-20,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106562565,254,ConsultarUsuario,200,OK,Grupo de Hilos 1-22,text,true,,1135,217,4,4,https://reqres.in/api/users/2,254,0,168
+1726106562781,81,ConsultarUsuario,200,OK,Grupo de Hilos 1-21,text,true,,1135,217,4,4,https://reqres.in/api/users/2,81,0,0
+1726106562862,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-21,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106562786,87,ConsultarUsuario,200,OK,Grupo de Hilos 1-20,text,true,,1136,217,4,4,https://reqres.in/api/users/1,87,0,0
+1726106562820,81,ConsultarUsuario,200,OK,Grupo de Hilos 1-22,text,true,,1135,217,4,4,https://reqres.in/api/users/2,81,0,0
+1726106562901,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-22,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106562864,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-21,text,true,,1136,217,4,4,https://reqres.in/api/users/1,82,0,0
+1726106562874,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-20,text,true,,1135,217,4,4,https://reqres.in/api/users/2,84,0,0
+1726106562958,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-20,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106562902,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-22,text,true,,1136,217,5,5,https://reqres.in/api/users/1,83,0,0
+1726106563016,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-22,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106562766,258,ConsultarUsuario,200,OK,Grupo de Hilos 1-23,text,true,,1136,217,5,5,https://reqres.in/api/users/1,258,0,166
+1726106562946,85,ConsultarUsuario,200,OK,Grupo de Hilos 1-21,text,true,,1135,217,5,5,https://reqres.in/api/users/2,85,0,0
+1726106563031,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-21,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106562959,80,ConsultarUsuario,200,OK,Grupo de Hilos 1-20,text,true,,1136,217,5,5,https://reqres.in/api/users/1,80,0,0
+1726106563017,81,ConsultarUsuario,200,OK,Grupo de Hilos 1-22,text,true,,1136,217,4,4,https://reqres.in/api/users/1,81,0,0
+1726106563024,86,ConsultarUsuario,200,OK,Grupo de Hilos 1-23,text,true,,1135,217,4,4,https://reqres.in/api/users/2,86,0,0
+1726106563110,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-23,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106563032,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-21,text,true,,1136,217,4,4,https://reqres.in/api/users/1,83,0,0
+1726106563099,86,ConsultarUsuario,200,OK,Grupo de Hilos 1-22,text,true,,1135,217,4,4,https://reqres.in/api/users/2,86,0,0
+1726106563186,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-22,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106563112,93,ConsultarUsuario,200,OK,Grupo de Hilos 1-23,text,true,,1136,217,4,4,https://reqres.in/api/users/1,93,0,0
+1726106562964,266,ConsultarUsuario,200,OK,Grupo de Hilos 1-24,text,true,,1135,217,4,4,https://reqres.in/api/users/2,266,0,170
+1726106563231,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-24,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106563189,85,ConsultarUsuario,200,OK,Grupo de Hilos 1-22,text,true,,1136,217,4,4,https://reqres.in/api/users/1,85,0,0
+1726106563207,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-23,text,true,,1135,217,4,4,https://reqres.in/api/users/2,82,0,0
+1726106563290,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-23,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106563232,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-24,text,true,,1136,217,4,4,https://reqres.in/api/users/1,82,0,0
+1726106563274,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-22,text,true,,1135,217,4,4,https://reqres.in/api/users/2,83,0,0
+1726106563366,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-26,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106563291,86,ConsultarUsuario,200,OK,Grupo de Hilos 1-23,text,true,,1136,217,4,4,https://reqres.in/api/users/1,86,0,0
+1726106563315,86,ConsultarUsuario,200,OK,Grupo de Hilos 1-24,text,true,,1135,217,4,4,https://reqres.in/api/users/2,86,0,0
+1726106563402,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-24,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106563166,319,ConsultarUsuario,200,OK,Grupo de Hilos 1-25,text,true,,1135,217,4,4,https://reqres.in/api/users/2,319,0,203
+1726106563378,106,ConsultarUsuario,200,OK,Grupo de Hilos 1-23,text,true,,1135,217,4,4,https://reqres.in/api/users/2,106,0,0
+1726106563403,81,ConsultarUsuario,200,OK,Grupo de Hilos 1-24,text,true,,1136,217,4,4,https://reqres.in/api/users/1,81,0,0
+1726106563532,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-24,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106563564,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-27,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106563533,81,ConsultarUsuario,200,OK,Grupo de Hilos 1-24,text,true,,1135,217,5,5,https://reqres.in/api/users/2,81,0,0
+1726106563533,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-23,text,true,,1136,217,5,5,https://reqres.in/api/users/1,82,0,0
+1726106563532,85,ConsultarUsuario,200,OK,Grupo de Hilos 1-25,text,true,,1135,217,4,4,https://reqres.in/api/users/2,85,0,0
+1726106563618,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-25,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106563370,264,ConsultarUsuario,200,OK,Grupo de Hilos 1-26,text,true,,1136,217,4,4,https://reqres.in/api/users/1,264,0,179
+1726106563615,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-24,text,true,,1135,217,4,4,https://reqres.in/api/users/2,82,0,0
+1726106563697,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-24,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106563619,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-25,text,true,,1136,217,3,3,https://reqres.in/api/users/1,83,0,0
+1726106563634,88,ConsultarUsuario,200,OK,Grupo de Hilos 1-26,text,true,,1135,217,3,3,https://reqres.in/api/users/2,88,0,0
+1726106563765,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-28,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106563703,85,ConsultarUsuario,200,OK,Grupo de Hilos 1-25,text,true,,1136,217,4,4,https://reqres.in/api/users/1,85,0,0
+1726106563565,245,ConsultarUsuario,200,OK,Grupo de Hilos 1-27,text,true,,1136,217,4,4,https://reqres.in/api/users/1,245,0,160
+1726106563722,89,ConsultarUsuario,200,OK,Grupo de Hilos 1-26,text,true,,1135,217,4,4,https://reqres.in/api/users/2,89,0,0
+1726106563810,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-27,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106563789,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-25,text,true,,1135,217,4,4,https://reqres.in/api/users/2,82,0,0
+1726106563872,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-25,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106563813,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-27,text,true,,1136,217,4,4,https://reqres.in/api/users/1,83,0,0
+1726106563813,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-26,text,true,,1135,217,4,4,https://reqres.in/api/users/2,83,0,0
+1726106563897,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-26,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106563874,85,ConsultarUsuario,200,OK,Grupo de Hilos 1-25,text,true,,1136,217,5,5,https://reqres.in/api/users/1,85,0,0
+1726106563959,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-25,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106563896,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-27,text,true,,1135,217,5,5,https://reqres.in/api/users/2,83,0,0
+1726106563767,268,ConsultarUsuario,200,OK,Grupo de Hilos 1-28,text,true,,1136,217,5,5,https://reqres.in/api/users/1,268,0,177
+1726106563899,143,ConsultarUsuario,200,OK,Grupo de Hilos 1-26,text,true,,1136,217,5,5,https://reqres.in/api/users/1,143,0,0
+1726106564063,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-28,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106563960,104,ConsultarUsuario,200,OK,Grupo de Hilos 1-25,text,true,,1136,217,5,5,https://reqres.in/api/users/1,104,0,0
+1726106563979,87,ConsultarUsuario,200,OK,Grupo de Hilos 1-27,text,true,,1135,217,4,4,https://reqres.in/api/users/2,87,0,0
+1726106564066,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-27,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106564064,81,ConsultarUsuario,200,OK,Grupo de Hilos 1-28,text,true,,1135,217,4,4,https://reqres.in/api/users/2,81,0,0
+1726106564149,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-30,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106564064,90,ConsultarUsuario,200,OK,Grupo de Hilos 1-26,text,true,,1136,217,5,5,https://reqres.in/api/users/1,90,0,0
+1726106564067,87,ConsultarUsuario,200,OK,Grupo de Hilos 1-27,text,true,,1136,217,5,5,https://reqres.in/api/users/1,87,0,0
+1726106564155,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-27,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106563948,240,ConsultarUsuario,200,OK,Grupo de Hilos 1-29,text,true,,1135,217,5,5,https://reqres.in/api/users/2,240,0,156
+1726106564145,95,ConsultarUsuario,200,OK,Grupo de Hilos 1-28,text,true,,1135,217,5,5,https://reqres.in/api/users/2,95,0,0
+1726106564156,85,ConsultarUsuario,200,OK,Grupo de Hilos 1-27,text,true,,1136,217,5,5,https://reqres.in/api/users/1,85,0,0
+1726106564241,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-28,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106564155,100,ConsultarUsuario,200,OK,Grupo de Hilos 1-26,text,true,,1135,217,5,5,https://reqres.in/api/users/2,100,0,0
+1726106564188,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-29,text,true,,1135,217,4,4,https://reqres.in/api/users/2,84,0,0
+1726106564273,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-29,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106564244,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-28,text,true,,1136,217,4,4,https://reqres.in/api/users/1,83,0,0
+1726106564255,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-26,text,true,,1135,217,4,4,https://reqres.in/api/users/2,84,0,0
+1726106564349,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-31,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106564275,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-29,text,true,,1136,217,4,4,https://reqres.in/api/users/1,83,0,0
+1726106564150,254,ConsultarUsuario,200,OK,Grupo de Hilos 1-30,text,true,,1136,217,4,4,https://reqres.in/api/users/1,254,0,170
+1726106564404,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-30,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106564327,116,ConsultarUsuario,200,OK,Grupo de Hilos 1-28,text,true,,1135,217,4,4,https://reqres.in/api/users/2,116,0,0
+1726106564358,95,ConsultarUsuario,200,OK,Grupo de Hilos 1-29,text,true,,1135,217,4,4,https://reqres.in/api/users/2,95,0,0
+1726106564454,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-29,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106564407,85,ConsultarUsuario,200,OK,Grupo de Hilos 1-30,text,true,,1136,217,4,4,https://reqres.in/api/users/1,85,0,0
+1726106564492,91,ConsultarUsuario,200,OK,Grupo de Hilos 1-30,text,true,,1135,217,5,5,https://reqres.in/api/users/2,91,0,0
+1726106564549,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-32,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106564455,80,ConsultarUsuario,200,OK,Grupo de Hilos 1-29,text,true,,1136,217,4,4,https://reqres.in/api/users/1,80,0,0
+1726106564444,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-28,text,true,,1135,217,4,4,https://reqres.in/api/users/2,83,0,0
+1726106564593,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-29,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106564351,273,ConsultarUsuario,200,OK,Grupo de Hilos 1-31,text,true,,1136,217,5,5,https://reqres.in/api/users/1,273,0,190
+1726106564625,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-31,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106564593,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-29,text,true,,1135,217,5,5,https://reqres.in/api/users/2,83,0,0
+1726106564593,88,ConsultarUsuario,200,OK,Grupo de Hilos 1-28,text,true,,1136,217,5,5,https://reqres.in/api/users/1,88,0,0
+1726106564593,93,ConsultarUsuario,200,OK,Grupo de Hilos 1-30,text,true,,1135,217,4,4,https://reqres.in/api/users/2,93,0,0
+1726106564686,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-30,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106564626,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-31,text,true,,1136,217,4,4,https://reqres.in/api/users/1,82,0,0
+1726106564749,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-33,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106564676,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-29,text,true,,1135,217,5,5,https://reqres.in/api/users/2,84,0,0
+1726106564688,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-30,text,true,,1136,217,4,4,https://reqres.in/api/users/1,82,0,0
+1726106564708,98,ConsultarUsuario,200,OK,Grupo de Hilos 1-31,text,true,,1135,217,4,4,https://reqres.in/api/users/2,98,0,0
+1726106564807,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-31,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106564593,259,ConsultarUsuario,200,OK,Grupo de Hilos 1-32,text,true,,1136,217,4,4,https://reqres.in/api/users/1,259,0,165
+1726106564770,87,ConsultarUsuario,200,OK,Grupo de Hilos 1-30,text,true,,1135,217,4,4,https://reqres.in/api/users/2,87,0,0
+1726106564858,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-30,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106564808,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-31,text,true,,1136,217,3,3,https://reqres.in/api/users/1,83,0,0
+1726106564853,106,ConsultarUsuario,200,OK,Grupo de Hilos 1-32,text,true,,1135,217,4,4,https://reqres.in/api/users/2,106,0,0
+1726106564959,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-32,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106564893,80,ConsultarUsuario,200,OK,Grupo de Hilos 1-31,text,true,,1136,217,4,4,https://reqres.in/api/users/1,80,0,0
+1726106564751,261,ConsultarUsuario,200,OK,Grupo de Hilos 1-33,text,true,,1136,217,4,4,https://reqres.in/api/users/1,261,0,175
+1726106565012,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-33,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106564974,90,ConsultarUsuario,200,OK,Grupo de Hilos 1-31,text,true,,1135,217,4,4,https://reqres.in/api/users/2,90,0,0
+1726106564960,104,ConsultarUsuario,200,OK,Grupo de Hilos 1-32,text,true,,1136,217,4,4,https://reqres.in/api/users/1,104,0,0
+1726106565090,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-32,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106565013,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-33,text,true,,1136,217,4,4,https://reqres.in/api/users/1,82,0,0
+1726106565149,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-35,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106565090,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-31,text,true,,1135,217,5,5,https://reqres.in/api/users/2,83,0,0
+1726106565096,81,ConsultarUsuario,200,OK,Grupo de Hilos 1-33,text,true,,1135,217,4,4,https://reqres.in/api/users/2,81,0,0
+1726106565091,88,ConsultarUsuario,200,OK,Grupo de Hilos 1-32,text,true,,1136,217,4,4,https://reqres.in/api/users/1,88,0,0
+1726106565180,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-32,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106564949,249,ConsultarUsuario,200,OK,Grupo de Hilos 1-34,text,true,,1135,217,4,4,https://reqres.in/api/users/2,249,0,165
+1726106565178,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-33,text,true,,1135,217,4,4,https://reqres.in/api/users/2,84,0,0
+1726106565262,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-33,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106565180,85,ConsultarUsuario,200,OK,Grupo de Hilos 1-32,text,true,,1136,217,4,4,https://reqres.in/api/users/1,85,0,0
+1726106565199,81,ConsultarUsuario,200,OK,Grupo de Hilos 1-34,text,true,,1135,217,4,4,https://reqres.in/api/users/2,81,0,0
+1726106565281,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-34,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106565263,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-33,text,true,,1136,217,4,4,https://reqres.in/api/users/1,84,0,0
+1726106565265,92,ConsultarUsuario,200,OK,Grupo de Hilos 1-32,text,true,,1135,217,4,4,https://reqres.in/api/users/2,92,0,0
+1726106565282,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-34,text,true,,1136,217,3,3,https://reqres.in/api/users/1,82,0,0
+1726106565365,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-34,text,false,,1113,0,3,3,https://reqres.in/api/users/<EOF>,0,0,0
+1726106565150,256,ConsultarUsuario,200,OK,Grupo de Hilos 1-35,text,true,,1136,217,4,4,https://reqres.in/api/users/1,256,0,172
+1726106565407,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-35,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106565347,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-33,text,true,,1135,217,4,4,https://reqres.in/api/users/2,83,0,0
+1726106565367,81,ConsultarUsuario,200,OK,Grupo de Hilos 1-34,text,true,,1136,217,4,4,https://reqres.in/api/users/1,81,0,0
+1726106565449,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-34,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106565408,89,ConsultarUsuario,200,OK,Grupo de Hilos 1-35,text,true,,1136,217,4,4,https://reqres.in/api/users/1,89,0,0
+1726106565430,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-33,text,true,,1135,217,4,4,https://reqres.in/api/users/2,82,0,0
+1726106565497,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-35,text,true,,1135,217,4,4,https://reqres.in/api/users/2,84,0,0
+1726106565564,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-37,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106565450,81,ConsultarUsuario,200,OK,Grupo de Hilos 1-34,text,true,,1136,217,3,3,https://reqres.in/api/users/1,81,0,0
+1726106565602,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-37,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106565377,273,ConsultarUsuario,200,OK,Grupo de Hilos 1-36,text,true,,1135,217,4,4,https://reqres.in/api/users/2,273,0,191
+1726106565602,90,ConsultarUsuario,200,OK,Grupo de Hilos 1-35,text,true,,1136,217,4,4,https://reqres.in/api/users/1,90,0,0
+1726106565603,89,ConsultarUsuario,200,OK,Grupo de Hilos 1-34,text,true,,1135,217,4,4,https://reqres.in/api/users/2,89,0,0
+1726106565693,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-35,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106565651,80,ConsultarUsuario,200,OK,Grupo de Hilos 1-36,text,true,,1135,217,4,4,https://reqres.in/api/users/2,80,0,0
+1726106565732,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-36,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106565695,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-34,text,true,,1136,217,5,5,https://reqres.in/api/users/1,83,0,0
+1726106565695,86,ConsultarUsuario,200,OK,Grupo de Hilos 1-35,text,true,,1135,217,4,4,https://reqres.in/api/users/2,86,0,0
+1726106565782,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-35,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106565733,86,ConsultarUsuario,200,OK,Grupo de Hilos 1-36,text,true,,1136,217,4,4,https://reqres.in/api/users/1,86,0,0
+1726106565604,253,ConsultarUsuario,200,OK,Grupo de Hilos 1-37,text,true,,1136,217,4,4,https://reqres.in/api/users/1,253,0,167
+1726106565858,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-37,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106565789,87,ConsultarUsuario,200,OK,Grupo de Hilos 1-35,text,true,,1136,217,4,4,https://reqres.in/api/users/1,87,0,0
+1726106565820,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-36,text,true,,1135,217,3,3,https://reqres.in/api/users/2,83,0,0
+1726106565859,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-37,text,true,,1136,217,3,3,https://reqres.in/api/users/1,83,0,0
+1726106565942,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-37,text,false,,1113,0,3,3,https://reqres.in/api/users/<EOF>,0,0,0
+1726106565904,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-36,text,true,,1135,217,4,4,https://reqres.in/api/users/2,83,0,0
+1726106565987,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-36,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106565764,251,ConsultarUsuario,200,OK,Grupo de Hilos 1-38,text,true,,1135,217,4,4,https://reqres.in/api/users/2,251,0,165
+1726106565988,97,ConsultarUsuario,200,OK,Grupo de Hilos 1-36,text,true,,1136,217,4,4,https://reqres.in/api/users/1,97,0,0
+1726106565943,85,ConsultarUsuario,200,OK,Grupo de Hilos 1-37,text,true,,1136,217,4,4,https://reqres.in/api/users/1,85,0,0
+1726106566095,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-36,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106566015,90,ConsultarUsuario,200,OK,Grupo de Hilos 1-38,text,true,,1135,217,4,4,https://reqres.in/api/users/2,90,0,0
+1726106566105,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-38,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106566096,81,ConsultarUsuario,200,OK,Grupo de Hilos 1-36,text,true,,1135,217,5,5,https://reqres.in/api/users/2,81,0,0
+1726106566096,85,ConsultarUsuario,200,OK,Grupo de Hilos 1-37,text,true,,1136,217,4,4,https://reqres.in/api/users/1,85,0,0
+1726106566182,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-37,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106566106,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-38,text,true,,1136,217,4,4,https://reqres.in/api/users/1,84,0,0
+1726106565964,246,ConsultarUsuario,200,OK,Grupo de Hilos 1-39,text,true,,1135,217,4,4,https://reqres.in/api/users/2,246,0,159
+1726106566210,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-39,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106566183,86,ConsultarUsuario,200,OK,Grupo de Hilos 1-37,text,true,,1136,217,4,4,https://reqres.in/api/users/1,86,0,0
+1726106566190,91,ConsultarUsuario,200,OK,Grupo de Hilos 1-38,text,true,,1135,217,3,3,https://reqres.in/api/users/2,91,0,0
+1726106566211,81,ConsultarUsuario,200,OK,Grupo de Hilos 1-39,text,true,,1136,217,3,3,https://reqres.in/api/users/1,81,0,0
+1726106566292,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-39,text,false,,1113,0,3,3,https://reqres.in/api/users/<EOF>,0,0,0
+1726106566281,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-38,text,true,,1135,217,4,4,https://reqres.in/api/users/2,84,0,0
+1726106566365,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-38,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106566293,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-39,text,true,,1136,217,4,4,https://reqres.in/api/users/1,83,0,0
+1726106566163,246,ConsultarUsuario,200,OK,Grupo de Hilos 1-40,text,true,,1135,217,4,4,https://reqres.in/api/users/2,245,0,157
+1726106566409,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-40,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106566366,97,ConsultarUsuario,200,OK,Grupo de Hilos 1-38,text,true,,1136,217,4,4,https://reqres.in/api/users/1,97,0,0
+1726106566377,85,ConsultarUsuario,200,OK,Grupo de Hilos 1-39,text,true,,1135,217,4,4,https://reqres.in/api/users/2,85,0,0
+1726106566512,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-39,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106566411,101,ConsultarUsuario,200,OK,Grupo de Hilos 1-40,text,true,,1136,217,4,4,https://reqres.in/api/users/1,101,0,0
+1726106566564,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-42,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106566513,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-40,text,true,,1135,217,5,5,https://reqres.in/api/users/2,83,0,0
+1726106566513,85,ConsultarUsuario,200,OK,Grupo de Hilos 1-39,text,true,,1136,217,5,5,https://reqres.in/api/users/1,85,0,0
+1726106566598,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-39,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106566512,87,ConsultarUsuario,200,OK,Grupo de Hilos 1-38,text,true,,1135,217,5,5,https://reqres.in/api/users/2,87,0,0
+1726106566363,258,ConsultarUsuario,200,OK,Grupo de Hilos 1-41,text,true,,1135,217,5,5,https://reqres.in/api/users/2,258,0,169
+1726106566621,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-41,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106566596,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-40,text,true,,1135,217,5,5,https://reqres.in/api/users/2,83,0,0
+1726106566599,81,ConsultarUsuario,200,OK,Grupo de Hilos 1-39,text,true,,1136,217,5,5,https://reqres.in/api/users/1,81,0,0
+1726106566599,100,ConsultarUsuario,200,OK,Grupo de Hilos 1-38,text,true,,1135,217,4,4,https://reqres.in/api/users/2,100,0,0
+1726106566622,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-41,text,true,,1136,217,3,3,https://reqres.in/api/users/1,82,0,0
+1726106566705,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-41,text,false,,1113,0,3,3,https://reqres.in/api/users/<EOF>,0,0,0
+1726106566680,95,ConsultarUsuario,200,OK,Grupo de Hilos 1-40,text,true,,1135,217,4,4,https://reqres.in/api/users/2,95,0,0
+1726106566776,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-40,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106566739,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-41,text,true,,1136,217,4,4,https://reqres.in/api/users/1,82,0,0
+1726106566565,267,ConsultarUsuario,200,OK,Grupo de Hilos 1-42,text,true,,1136,217,4,4,https://reqres.in/api/users/1,267,0,177
+1726106566833,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-42,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106566777,95,ConsultarUsuario,200,OK,Grupo de Hilos 1-40,text,true,,1136,217,4,4,https://reqres.in/api/users/1,95,0,0
+1726106566822,86,ConsultarUsuario,200,OK,Grupo de Hilos 1-41,text,true,,1135,217,4,4,https://reqres.in/api/users/2,86,0,0
+1726106566909,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-41,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106566911,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-41,text,true,,1136,217,5,5,https://reqres.in/api/users/1,82,0,0
+1726106566872,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-40,text,true,,1135,217,4,4,https://reqres.in/api/users/2,84,0,0
+1726106566834,89,ConsultarUsuario,200,OK,Grupo de Hilos 1-42,text,true,,1136,217,4,4,https://reqres.in/api/users/1,88,0,0
+1726106567041,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-42,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106567041,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-41,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106566765,289,ConsultarUsuario,200,OK,Grupo de Hilos 1-43,text,true,,1135,217,5,5,https://reqres.in/api/users/2,289,0,175
+1726106567042,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-41,text,true,,1136,217,5,5,https://reqres.in/api/users/1,84,0,0
+1726106567041,91,ConsultarUsuario,200,OK,Grupo de Hilos 1-40,text,true,,1136,217,4,4,https://reqres.in/api/users/1,91,0,0
+1726106567041,95,ConsultarUsuario,200,OK,Grupo de Hilos 1-42,text,true,,1135,217,3,3,https://reqres.in/api/users/2,95,0,0
+1726106567137,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-42,text,false,,1113,0,3,3,https://reqres.in/api/users/<EOF>,0,0,0
+1726106567054,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-43,text,true,,1135,217,3,3,https://reqres.in/api/users/2,83,0,0
+1726106567164,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-45,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106567138,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-43,text,true,,1135,217,4,4,https://reqres.in/api/users/2,84,0,0
+1726106567138,85,ConsultarUsuario,200,OK,Grupo de Hilos 1-42,text,true,,1136,217,4,4,https://reqres.in/api/users/1,85,0,0
+1726106567224,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-42,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106566963,270,ConsultarUsuario,200,OK,Grupo de Hilos 1-44,text,true,,1135,217,4,4,https://reqres.in/api/users/2,270,0,169
+1726106567222,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-43,text,true,,1135,217,4,4,https://reqres.in/api/users/2,83,0,0
+1726106567306,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-43,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106567226,90,ConsultarUsuario,200,OK,Grupo de Hilos 1-42,text,true,,1136,217,4,4,https://reqres.in/api/users/1,90,0,0
+1726106567234,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-44,text,true,,1135,217,3,3,https://reqres.in/api/users/2,84,0,0
+1726106567364,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-46,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106567307,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-43,text,true,,1136,217,4,4,https://reqres.in/api/users/1,84,0,0
+1726106567319,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-44,text,true,,1135,217,4,4,https://reqres.in/api/users/2,83,0,0
+1726106567402,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-44,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106567404,89,ConsultarUsuario,200,OK,Grupo de Hilos 1-44,text,true,,1136,217,4,4,https://reqres.in/api/users/1,89,0,0
+1726106567392,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-43,text,true,,1135,217,4,4,https://reqres.in/api/users/2,83,0,0
+1726106567587,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-44,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106567165,262,ConsultarUsuario,200,OK,Grupo de Hilos 1-45,text,true,,1136,217,4,4,https://reqres.in/api/users/1,262,0,177
+1726106567588,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-44,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106567365,280,ConsultarUsuario,200,OK,Grupo de Hilos 1-46,text,true,,1136,217,5,5,https://reqres.in/api/users/1,280,0,193
+1726106567589,80,ConsultarUsuario,200,OK,Grupo de Hilos 1-44,text,true,,1136,217,5,5,https://reqres.in/api/users/1,80,0,0
+1726106567587,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-43,text,true,,1136,217,5,5,https://reqres.in/api/users/1,82,0,0
+1726106567669,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-44,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106567587,85,ConsultarUsuario,200,OK,Grupo de Hilos 1-45,text,true,,1135,217,5,5,https://reqres.in/api/users/2,85,0,0
+1726106567672,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-45,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106567645,81,ConsultarUsuario,200,OK,Grupo de Hilos 1-46,text,true,,1135,217,5,5,https://reqres.in/api/users/2,81,0,0
+1726106567671,80,ConsultarUsuario,200,OK,Grupo de Hilos 1-43,text,true,,1136,217,5,5,https://reqres.in/api/users/1,80,0,0
+1726106567752,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-43,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106567671,86,ConsultarUsuario,200,OK,Grupo de Hilos 1-44,text,true,,1135,217,4,4,https://reqres.in/api/users/2,86,0,0
+1726106567674,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-45,text,true,,1136,217,4,4,https://reqres.in/api/users/1,83,0,0
+1726106567726,85,ConsultarUsuario,200,OK,Grupo de Hilos 1-46,text,true,,1135,217,4,4,https://reqres.in/api/users/2,85,0,0
+1726106567811,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-46,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106567563,257,ConsultarUsuario,200,OK,Grupo de Hilos 1-47,text,true,,1135,217,4,4,https://reqres.in/api/users/2,257,0,174
+1726106567758,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-45,text,true,,1136,217,4,4,https://reqres.in/api/users/1,82,0,0
+1726106567840,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-45,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106567812,81,ConsultarUsuario,200,OK,Grupo de Hilos 1-46,text,true,,1136,217,4,4,https://reqres.in/api/users/1,81,0,0
+1726106567821,86,ConsultarUsuario,200,OK,Grupo de Hilos 1-47,text,true,,1135,217,4,4,https://reqres.in/api/users/2,86,0,0
+1726106567907,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-47,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106567909,97,ConsultarUsuario,200,OK,Grupo de Hilos 1-47,text,true,,1136,217,5,5,https://reqres.in/api/users/1,97,0,0
+1726106567763,262,ConsultarUsuario,200,OK,Grupo de Hilos 1-48,text,true,,1135,217,5,5,https://reqres.in/api/users/2,262,0,173
+1726106567894,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-46,text,true,,1135,217,5,5,https://reqres.in/api/users/2,84,0,0
+1726106567841,92,ConsultarUsuario,200,OK,Grupo de Hilos 1-45,text,true,,1136,217,4,4,https://reqres.in/api/users/1,92,0,0
+1726106568048,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-47,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106568049,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-46,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106568049,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-48,text,true,,1136,217,5,5,https://reqres.in/api/users/1,82,0,0
+1726106568049,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-46,text,true,,1135,217,5,5,https://reqres.in/api/users/2,83,0,0
+1726106568131,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-48,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106568049,91,ConsultarUsuario,200,OK,Grupo de Hilos 1-47,text,true,,1135,217,5,5,https://reqres.in/api/users/2,91,0,0
+1726106568140,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-47,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106568049,98,ConsultarUsuario,200,OK,Grupo de Hilos 1-45,text,true,,1136,217,5,5,https://reqres.in/api/users/1,98,0,0
+1726106568163,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-50,text,false,,1113,0,6,6,https://reqres.in/api/users/<EOF>,0,0,0
+1726106568133,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-46,text,true,,1136,217,6,6,https://reqres.in/api/users/1,82,0,0
+1726106567963,254,ConsultarUsuario,200,OK,Grupo de Hilos 1-49,text,true,,1135,217,5,5,https://reqres.in/api/users/2,254,0,169
+1726106568133,84,ConsultarUsuario,200,OK,Grupo de Hilos 1-48,text,true,,1135,217,5,5,https://reqres.in/api/users/2,84,0,0
+1726106568218,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-48,text,false,,1113,0,5,5,https://reqres.in/api/users/<EOF>,0,0,0
+1726106568142,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-47,text,true,,1136,217,5,5,https://reqres.in/api/users/1,83,0,0
+1726106568148,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-45,text,true,,1135,217,5,5,https://reqres.in/api/users/2,82,0,0
+1726106568217,86,ConsultarUsuario,200,OK,Grupo de Hilos 1-49,text,true,,1135,217,4,4,https://reqres.in/api/users/2,86,0,0
+1726106568303,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-49,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106568226,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-47,text,true,,1135,217,4,4,https://reqres.in/api/users/2,83,0,0
+1726106568220,91,ConsultarUsuario,200,OK,Grupo de Hilos 1-48,text,true,,1136,217,4,4,https://reqres.in/api/users/1,91,0,0
+1726106568311,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-48,text,false,,1113,0,4,4,https://reqres.in/api/users/<EOF>,0,0,0
+1726106568305,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-49,text,true,,1136,217,4,4,https://reqres.in/api/users/1,83,0,0
+1726106568309,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-47,text,true,,1135,217,4,4,https://reqres.in/api/users/2,83,0,0
+1726106568313,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-48,text,true,,1136,217,3,3,https://reqres.in/api/users/1,82,0,0
+1726106568396,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-48,text,false,,1113,0,3,3,https://reqres.in/api/users/<EOF>,0,0,0
+1726106568164,256,ConsultarUsuario,200,OK,Grupo de Hilos 1-50,text,true,,1136,217,3,3,https://reqres.in/api/users/1,256,0,171
+1726106568389,81,ConsultarUsuario,200,OK,Grupo de Hilos 1-49,text,true,,1135,217,3,3,https://reqres.in/api/users/2,81,0,0
+1726106568397,102,ConsultarUsuario,200,OK,Grupo de Hilos 1-48,text,true,,1136,217,3,3,https://reqres.in/api/users/1,102,0,0
+1726106568421,99,ConsultarUsuario,200,OK,Grupo de Hilos 1-50,text,true,,1135,217,3,3,https://reqres.in/api/users/2,99,0,0
+1726106568559,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-49,text,false,,1113,0,3,3,https://reqres.in/api/users/<EOF>,0,0,0
+1726106568560,81,ConsultarUsuario,200,OK,Grupo de Hilos 1-50,text,true,,1136,217,2,2,https://reqres.in/api/users/1,81,0,0
+1726106568642,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-50,text,false,,1113,0,2,2,https://reqres.in/api/users/<EOF>,0,0,0
+1726106568560,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-49,text,true,,1135,217,2,2,https://reqres.in/api/users/2,83,0,0
+1726106568644,86,ConsultarUsuario,200,OK,Grupo de Hilos 1-49,text,true,,1135,217,2,2,https://reqres.in/api/users/2,86,0,0
+1726106568731,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-49,text,false,,1113,0,2,2,https://reqres.in/api/users/<EOF>,0,0,0
+1726106568644,93,ConsultarUsuario,200,OK,Grupo de Hilos 1-50,text,true,,1136,217,2,2,https://reqres.in/api/users/1,93,0,0
+1726106568733,85,ConsultarUsuario,200,OK,Grupo de Hilos 1-49,text,true,,1136,217,2,2,https://reqres.in/api/users/1,85,0,0
+1726106568738,90,ConsultarUsuario,200,OK,Grupo de Hilos 1-50,text,true,,1135,217,1,1,https://reqres.in/api/users/2,90,0,0
+1726106568829,0,ConsultarUsuario,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 28: https://reqres.in/api/users/<EOF>,Grupo de Hilos 1-50,text,false,,1113,0,1,1,https://reqres.in/api/users/<EOF>,0,0,0
+1726106568830,83,ConsultarUsuario,200,OK,Grupo de Hilos 1-50,text,true,,1136,217,1,1,https://reqres.in/api/users/1,83,0,0
+1726106568913,82,ConsultarUsuario,200,OK,Grupo de Hilos 1-50,text,true,,1135,217,1,1,https://reqres.in/api/users/2,82,0,0
